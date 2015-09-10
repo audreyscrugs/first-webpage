@@ -1,0 +1,21 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: garamond;
+
+}
+
+ul {
+  font-family: arial;
+  font-size: 20px;
+  line-height: 30px;
+
+}
